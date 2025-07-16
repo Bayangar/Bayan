@@ -1,0 +1,22 @@
+{
+  "templater-obsidian:insert-templater": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "V"
+    }
+  ],
+  "editor:fold-less": [
+    {
+      "modifiers": [],
+      "key": "F3"
+    }
+  ],
+  "editor:unfold-all": [
+    {
+      "modifiers": [],
+      "key": "F4"
+    }
+  ]
+}
