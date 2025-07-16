@@ -18,5 +18,25 @@
       "modifiers": [],
       "key": "F4"
     }
+  ],
+  "obsidian-git:commit": [
+    {
+      "modifiers": [],
+      "key": "F5"
+    }
+  ],
+  "obsidian-git:push2": [
+    {
+      "modifiers": [],
+      "key": "F6"
+    }
+  ],
+  "file-explorer:move-file": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "1"
+    }
   ]
 }
