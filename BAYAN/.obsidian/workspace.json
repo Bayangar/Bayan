@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2000-AL-BAGHARE/البقره 149.md",
+                "file": "2000-AL-BAGHARE/البقره 148.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "البقره 149"
+              "title": "البقره 148"
             }
           }
         ]
@@ -182,8 +182,9 @@
   },
   "active": "53b908c90fb898bf",
   "lastOpenFiles": [
-    "Templates/Tafsir.md",
     "2000-AL-BAGHARE/البقره 149.md",
+    "2000-AL-BAGHARE/البقره 148.md",
+    "Templates/Tafsir.md",
     "Templates",
     "Welcome.md",
     "2000-AL-BAGHARE"
