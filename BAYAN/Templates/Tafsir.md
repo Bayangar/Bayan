@@ -1,6 +1,6 @@
 ---
-sura_number: 
-Sura_name: 
+sura_number: 2
+Sura_name: البقره
 Aye_number: 
 publication_date: 
 Author: Bayangar

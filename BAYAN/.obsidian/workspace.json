@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4c981d6a383c38fd",
+        "id": "ef7844b4bb7f0440",
         "type": "tabs",
         "children": [
           {
-            "id": "77da5c72571b92d3",
+            "id": "c5eac1d4e73bfa16",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2000-AL-BAGHARE/البقره 48.md",
+                "file": "2000-AL-BAGHARE/البقره 149.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "البقره 48"
+              "title": "البقره 149"
             }
           }
         ]
@@ -180,34 +180,34 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "77da5c72571b92d3",
+  "active": "c5eac1d4e73bfa16",
   "lastOpenFiles": [
-    "2000-AL-BAGHARE/البقره 49.md",
-    "New folder/بقره ۴۷_250128_200914.md",
-    "2000-AL-BAGHARE/البقره 48.md",
-    "New folder/بقره ۴۶_250127_200647.md",
-    "New folder/بقره ۴۵_250127_081349.md",
-    "New folder/بقره ۴۴_250125_132630.md",
-    "New folder/بقره ۴۳_250125_132638.md",
-    "New folder/بقره ۴۲_250123_145013.md",
-    "New folder/بقره ۴۱_250122_183520.md",
-    "New folder/بقره ۴۰_250121_184148.md",
-    "New folder/بقره ۳۹_250120_171156.md",
-    "New folder/بقره ۳۸_250119_132019.md",
-    "New folder/بقره ۳۷_250118_133018.md",
-    "New folder/بقره ۳۶_250116_225645.md",
-    "New folder/بقره ۳۴_250114_134854.md",
-    "New folder/بقره ۳۵_250115_184632.md",
-    "New folder/بقره ۳۳_250113_133258.md",
-    "New folder/بقره ۳۲_250112_133909.md",
-    "New folder/بقره ۳۱_250111_154225.md",
-    "New folder/بقره ۳۰_250109_135857.md",
+    "2000-AL-BAGHARE/البقره 21.md",
+    "Templates/Tafsir.md",
+    "New folder/بقره ۱۹ و ۲۰_241224_142137.md",
+    "2000-AL-BAGHARE/البقره 20.md",
+    "2000-AL-BAGHARE/البقره 22.md",
+    "2000-AL-BAGHARE/البقره 23.md",
     "New folder/بقره ۳_241229_094843.md",
-    "New folder/بقره ۲۹_250106_182357.md",
-    "New folder/بقره ۲۸_250105_213820.md",
-    "New folder/بقره ۲۷_250105_002029.md",
-    "New folder/بقره ۲۶_250103_135454.md",
-    "New folder/بقره ۲۵_250103_012617.md",
+    "2000-AL-BAGHARE/البقره 24.md",
+    "2000-AL-BAGHARE/البقره 25.md",
+    "2000-AL-BAGHARE/البقره 26.md",
+    "2000-AL-BAGHARE/البقره 27.md",
+    "2000-AL-BAGHARE/البقره 28.md",
+    "2000-AL-BAGHARE/البقره 29.md",
+    "2000-AL-BAGHARE/البقره 30.md",
+    "2000-AL-BAGHARE/البقره 31.md",
+    "2000-AL-BAGHARE/البقره 32.md",
+    "2000-AL-BAGHARE/البقره 33.md",
+    "2000-AL-BAGHARE/البقره 34.md",
+    "2000-AL-BAGHARE/البقره 35.md",
+    "2000-AL-BAGHARE/البقره 36.md",
+    "2000-AL-BAGHARE/البقره 37.md",
+    "2000-AL-BAGHARE/البقره 38.md",
+    "2000-AL-BAGHARE/البقره 41.md",
+    "2000-AL-BAGHARE/البقره 39.md",
+    "2000-AL-BAGHARE/البقره 40.md",
+    "2000-AL-BAGHARE/البقره 42.md",
     "New folder",
     "Templates",
     "2000-AL-BAGHARE"
