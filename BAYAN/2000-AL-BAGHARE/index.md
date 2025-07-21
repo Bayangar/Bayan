@@ -2,7 +2,6 @@
 
 در اینجا می‌توانید به فایل‌های سوره بقره دسترسی داشته باشید.
 
-- [آیه ۱۰۰](BAYAN/2000-AL-BAGHARE/100.md)
-- [آیه ۱۰۱](BAYAN/2000-AL-BAGHARE/101.md)
-- [آیه ۱۰۲](BAYAN/2000-AL-BAGHARE/102.md)
+- [آیه ۱۰۰](https://github.com/Bayangar/Bayan/blob/main/BAYAN/2000-AL-BAGHARE/100.md)
+
 ...
