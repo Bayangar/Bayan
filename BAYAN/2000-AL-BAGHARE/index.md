@@ -4,8 +4,8 @@
 
 برای مشاهده هر آیه روی شماره آن کلیک کنید:
 
-- [آیه ۲۱](BAYAN/2000-AL-BAGHARE/21.md)
-- [آیه ۲۲](BAYAN/2000-AL-BAGHARE/22.md)
+- [آیه ۲۱](https://github.com/Bayangar/Bayan/blob/main/BAYAN/2000-AL-BAGHARE/21.md)
+- [آیه ۲۲](https://github.com/Bayangar/Bayan/blob/main/BAYAN/2000-AL-BAGHARE/22.md)
 - [آیه ۲۳](BAYAN/2000-AL-BAGHARE/23.md)
 - [آیه ۲۴](BAYAN/2000-AL-BAGHARE/24.md)
 - [آیه ۲۵](BAYAN/2000-AL-BAGHARE/25.md)
