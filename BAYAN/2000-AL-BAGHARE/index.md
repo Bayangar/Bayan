@@ -84,7 +84,7 @@
 - [آیه ۹۸](BAYAN/2000-AL-BAGHARE/98.md)
 - [آیه ۹۹](BAYAN/2000-AL-BAGHARE/99.md)
 - [آیه ۱۰۰](BAYAN/2000-AL-BAGHARE/100.md)
-- [آیه ۱۰۱](BAYAN/2000-AL-BAGHARE/101.md)
+- [آیه ۱۰۱](https://github.com/Bayangar/Bayan/blob/main/BAYAN/2000-AL-BAGHARE/101.md)
 - [آیه ۱۰۲](BAYAN/2000-AL-BAGHARE/102.md)
 - [آیه ۱۰۳](BAYAN/2000-AL-BAGHARE/103.md)
 - [آیه ۱۰۴](BAYAN/2000-AL-BAGHARE/104.md)
