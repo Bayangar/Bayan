@@ -86,11 +86,8 @@
 
 ---
 ### فهرست سوره ها
-# تست لینک آیه ۱۰۰
+- [البقره](https://github.com/Bayangar/Bayan/blob/main/BAYAN/2000-AL-BAGHARE/index.md)
 
-برای مشاهده آیه ۱۰۰ سوره بقره روی لینک زیر کلیک کنید:
-
-- [آیه ۱۰۰](BAYAN/2000-AL-BAGHARE/100.md)
 
 ---
 
