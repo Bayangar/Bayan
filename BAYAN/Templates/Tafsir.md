@@ -2,6 +2,7 @@
 sura_number: 2
 Sura_name: البقره
 Aye_number: 
+tags: 
 publication_date: 
 Author: Bayangar
 Version: "1.0"
