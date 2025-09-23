@@ -188,6 +188,7 @@
 - [آیه ۲۰۱](https://github.com/Bayangar/Bayan/blob/main/BAYAN/2000-AL-BAGHARE/201.md)
 - [آیه ۲۰۲](https://github.com/Bayangar/Bayan/blob/main/BAYAN/2000-AL-BAGHARE/202.md)
 - [آیه ۲۰۳](https://github.com/Bayangar/Bayan/blob/main/BAYAN/2000-AL-BAGHARE/203.md)
+- [آیه ۱۹۶-۲۰۳](https://github.com/Bayangar/Bayan/blob/main/BAYAN/2000-AL-BAGHARE/196-203.md)
 - [آیه ۲۰۴](https://github.com/Bayangar/Bayan/blob/main/BAYAN/2000-AL-BAGHARE/204.md)
 - [آیه ۲۰۵](https://github.com/Bayangar/Bayan/blob/main/BAYAN/2000-AL-BAGHARE/205.md)
 - [آیه ۲۰۶](https://github.com/Bayangar/Bayan/blob/main/BAYAN/2000-AL-BAGHARE/206.md)
@@ -197,4 +198,4 @@
 - [آیه ۲۱۰](https://github.com/Bayangar/Bayan/blob/main/BAYAN/2000-AL-BAGHARE/210.md)
 - [آیه ۲۱۱](https://github.com/Bayangar/Bayan/blob/main/BAYAN/2000-AL-BAGHARE/211.md)
 - [آیه ۲۱۲](https://github.com/Bayangar/Bayan/blob/main/BAYAN/2000-AL-BAGHARE/212.md)
-
+- [آیه۲۱۲-۲۰۴](https://github.com/Bayangar/Bayan/blob/main/BAYAN/2000-AL-BAGHARE/204-212.md)
