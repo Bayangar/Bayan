@@ -169,4 +169,22 @@
 - [آیه ۱۸۲](https://github.com/Bayangar/Bayan/blob/main/BAYAN/2000-AL-BAGHARE/182.md)
 - [آیه ۱۸۳](https://github.com/Bayangar/Bayan/blob/main/BAYAN/2000-AL-BAGHARE/183.md)
 - [آیه ۱۸۴](https://github.com/Bayangar/Bayan/blob/main/BAYAN/2000-AL-BAGHARE/184.md)
-  
+- [آیه ۱۸۵](https://github.com/Bayangar/Bayan/blob/main/BAYAN/2000-AL-BAGHARE/185.md)
+- [آیه ۱۸۶](https://github.com/Bayangar/Bayan/blob/main/BAYAN/2000-AL-BAGHARE/186.md)
+- [آیه ۱۸۷](https://github.com/Bayangar/Bayan/blob/main/BAYAN/2000-AL-BAGHARE/187.md)
+- [آیه ۱۸۸](https://github.com/Bayangar/Bayan/blob/main/BAYAN/2000-AL-BAGHARE/188.md)
+- [آیه ۱۸۹](https://github.com/Bayangar/Bayan/blob/main/BAYAN/2000-AL-BAGHARE/189.md)
+- [آیه ۱۹۰](https://github.com/Bayangar/Bayan/blob/main/BAYAN/2000-AL-BAGHARE/190.md)
+- [آیه ۱۹۱](https://github.com/Bayangar/Bayan/blob/main/BAYAN/2000-AL-BAGHARE/191.md)
+- [آیه ۱۹۲](https://github.com/Bayangar/Bayan/blob/main/BAYAN/2000-AL-BAGHARE/192.md)
+- [آیه ۱۹۳](https://github.com/Bayangar/Bayan/blob/main/BAYAN/2000-AL-BAGHARE/193.md)
+- [آیه ۱۹۴](https://github.com/Bayangar/Bayan/blob/main/BAYAN/2000-AL-BAGHARE/194.md)
+- [آیه ۱۹۵](https://github.com/Bayangar/Bayan/blob/main/BAYAN/2000-AL-BAGHARE/195.md)
+- [آیه ۱۹۶](https://github.com/Bayangar/Bayan/blob/main/BAYAN/2000-AL-BAGHARE/196.md)
+- [آیه ۱۹۷](https://github.com/Bayangar/Bayan/blob/main/BAYAN/2000-AL-BAGHARE/197.md)
+- [آیه ۱۹۸](https://github.com/Bayangar/Bayan/blob/main/BAYAN/2000-AL-BAGHARE/198.md)
+- [آیه ۱۹۹](https://github.com/Bayangar/Bayan/blob/main/BAYAN/2000-AL-BAGHARE/199.md)
+- [آیه ۲۰۰](https://github.com/Bayangar/Bayan/blob/main/BAYAN/2000-AL-BAGHARE/200.md)
+- [آیه ۲۰۱](https://github.com/Bayangar/Bayan/blob/main/BAYAN/2000-AL-BAGHARE/201.md)
+
+
