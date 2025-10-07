@@ -210,4 +210,4 @@
 - [آیه ۲۲۰](https://github.com/Bayangar/Bayan/blob/main/BAYAN/2000-AL-BAGHARE/220.md)
 - [آیه ۲۲۱](https://github.com/Bayangar/Bayan/blob/main/BAYAN/2000-AL-BAGHARE/221.md)
 - [آیه ۲۲۲](https://github.com/Bayangar/Bayan/blob/main/BAYAN/2000-AL-BAGHARE/222.md)
-آ:
+- [آیه ۲۲۳](https://github.com/Bayangar/Bayan/blob/main/BAYAN/2000-AL-BAGHARE/223.md)
