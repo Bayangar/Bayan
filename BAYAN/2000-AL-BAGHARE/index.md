@@ -217,3 +217,7 @@
 - [آیه ۲۲۷](https://github.com/Bayangar/Bayan/blob/main/BAYAN/2000-AL-BAGHARE/227.md)
 - [آیه ۲۲۸](https://github.com/Bayangar/Bayan/blob/main/BAYAN/2000-AL-BAGHARE/228.md)
 - [آیه ۲۲۹](https://github.com/Bayangar/Bayan/blob/main/BAYAN/2000-AL-BAGHARE/229.md)
+- [آیه ۲۳۰](https://github.com/Bayangar/Bayan/blob/main/BAYAN/2000-AL-BAGHARE/230.md)
+- [آیه ۲۳۱](https://github.com/Bayangar/Bayan/blob/main/BAYAN/2000-AL-BAGHARE/231.md)
+- [آیه ۲۳۲](https://github.com/Bayangar/Bayan/blob/main/BAYAN/2000-AL-BAGHARE/232.md)
+- 
