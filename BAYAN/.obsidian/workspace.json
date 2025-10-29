@@ -34,9 +34,51 @@
               "icon": "lucide-file",
               "title": "148"
             }
+          },
+          {
+            "id": "6e01dae2afb0b4c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2000-AL-BAGHARE/232.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "232"
+            }
+          },
+          {
+            "id": "03b7bf17477955cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2000-AL-BAGHARE/230.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "230"
+            }
+          },
+          {
+            "id": "8826653d4e191523",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2000-AL-BAGHARE/231.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "231"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -196,8 +238,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5e269a61b664fe22",
+  "active": "8826653d4e191523",
   "lastOpenFiles": [
+    "2000-AL-BAGHARE/230.md",
+    "2000-AL-BAGHARE/231.md",
+    "2000-AL-BAGHARE/232.md",
+    "2000-AL-BAGHARE/229.md",
+    "2000-AL-BAGHARE/216.md",
+    "2000-AL-BAGHARE/148.md",
     "2000-AL-BAGHARE/161.md",
     "2000-AL-BAGHARE/162.md",
     "2000-AL-BAGHARE/163.md",
@@ -218,12 +266,6 @@
     "2000-AL-BAGHARE/178.md",
     "2000-AL-BAGHARE/179.md",
     "2000-AL-BAGHARE/180.md",
-    "2000-AL-BAGHARE/181.md",
-    "2000-AL-BAGHARE/182.md",
-    "2000-AL-BAGHARE/183.md",
-    "2000-AL-BAGHARE/184.md",
-    "2000-AL-BAGHARE/185.md",
-    "2000-AL-BAGHARE/186.md",
     "New folder",
     "Templates",
     "2000-AL-BAGHARE"
